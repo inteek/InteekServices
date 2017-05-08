@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="inteek.Services.Solicitud" CodeBehind="Solicitud.svc.cs" %>

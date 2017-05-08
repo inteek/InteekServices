@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inteek", "InteekServices\inteek.csproj", "{67D54AC9-2D8E-46FC-96DD-466E64A44279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectUtilerias", "ProjectUtilerias\ProjectUtilerias.csproj", "{E32FBDC3-9410-49C6-875E-CC274499BB9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLEntity", "SQLEntity\SQLEntity.csproj", "{4336350B-C922-4088-8738-718BB9579646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectLibreria", "ProjectLibreria\ProjectLibreria.csproj", "{ADF50B44-98B5-4106-95AA-A73D445F4CD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectFramework", "ProjectFramework\ProjectFramework.csproj", "{66FF01AA-774E-469A-B659-F6DA5E3DBEAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteekConsola", "InteekConsola\InteekConsola.csproj", "{5D6189AA-9AD1-40D1-825F-35299D22C8A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D54AC9-2D8E-46FC-96DD-466E64A44279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D54AC9-2D8E-46FC-96DD-466E64A44279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D54AC9-2D8E-46FC-96DD-466E64A44279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D54AC9-2D8E-46FC-96DD-466E64A44279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E32FBDC3-9410-49C6-875E-CC274499BB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E32FBDC3-9410-49C6-875E-CC274499BB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E32FBDC3-9410-49C6-875E-CC274499BB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E32FBDC3-9410-49C6-875E-CC274499BB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4336350B-C922-4088-8738-718BB9579646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4336350B-C922-4088-8738-718BB9579646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4336350B-C922-4088-8738-718BB9579646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4336350B-C922-4088-8738-718BB9579646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF50B44-98B5-4106-95AA-A73D445F4CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF50B44-98B5-4106-95AA-A73D445F4CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF50B44-98B5-4106-95AA-A73D445F4CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF50B44-98B5-4106-95AA-A73D445F4CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66FF01AA-774E-469A-B659-F6DA5E3DBEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FF01AA-774E-469A-B659-F6DA5E3DBEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FF01AA-774E-469A-B659-F6DA5E3DBEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FF01AA-774E-469A-B659-F6DA5E3DBEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6189AA-9AD1-40D1-825F-35299D22C8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6189AA-9AD1-40D1-825F-35299D22C8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6189AA-9AD1-40D1-825F-35299D22C8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6189AA-9AD1-40D1-825F-35299D22C8A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
