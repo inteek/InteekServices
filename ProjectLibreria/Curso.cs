@@ -7,7 +7,7 @@ namespace ProjectLibreria
 {
     public class Curso
     {
-        //PRUEBA 
+        //RAUL
         public int IdCurso { get; set; }
         public string Titulo { get; set; }
         public string Institucion { get; set; }
@@ -17,5 +17,6 @@ namespace ProjectLibreria
         public int IdPerfil { get; set; }
         public int IdTipo { get; set; }
         public int Comentarios { get; set; }
+
     }
 }
